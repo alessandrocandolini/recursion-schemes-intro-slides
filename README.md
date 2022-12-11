@@ -1,6 +1,8 @@
+[![CI](https://github.com/alessandrocandolini/recursion-schemes-intro-slides/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/recursion-schemes-intro-slides/actions/workflows/ci.yml)
+
 # recursion-schemes-intro-slides
 
-Fill description
+Introduction to recursion schemes slides 
 
 ## Run
 
